@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 86d7187940ef286429a5f8c76bbe0e87
+timeCreated: 1512244819
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119386
+  packageName: 'Low Poly Office Pack: Characters & Props'
+  packageVersion: 1.0
+  assetPath: Assets/PolygonalMind/LowPolyOffice/Props/Materials/Wall.mat
+  uploadId: 274595
